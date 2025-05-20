@@ -20,6 +20,6 @@ int main(){
         }
     }
 
-    printf("Qauntidade de números pares: %d\n", pares);
+    printf("Quantidade de números pares: %d\n", pares);
     printf("Quantidade de números ímpares: %d", impares);
 }
